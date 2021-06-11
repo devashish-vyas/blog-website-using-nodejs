@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+
+.box{
+    background-color: white;
+    height:70%;
+    width:70%;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+.name{
+    width: 900px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    display: flex;
+    margin-top: 50px;
+    align-items: centre;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.logo{
+    font-size: 3em;
+    font-style: italic;
+    font-family: serif;
+    width:80%;
+}
+.links{
+    margin-left: 400px;
+}
+
+    
+
+
+loginform{
+    margin-top: 30px;
+}
+.signstudent{
+    font-style: bold;
+}
